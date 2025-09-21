@@ -41,7 +41,7 @@ Create a production build:
 ```bash
 npm run build
 ```
-
+npm run build
 ## Deployment
 
 ### Docker Deployment

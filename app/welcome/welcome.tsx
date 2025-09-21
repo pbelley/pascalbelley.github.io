@@ -42,7 +42,7 @@ export function Welcome() {
           Bienvenue sur ma page!
         </h1>
         <p className="text-slate-600 text-lg mb-6">
-          Je suis Léopold Bosso, gestionnaire, développeur, électricien, mécanicien, un touche à tout en somme. Professionnel passionné par la gestion de projet, le développement personnel et les ressources humaines, avec plus de 4 ans d'expérience. Compétent en coordination, analyse et mentorat, prêt à relever de nouveaux défis dans un nouveau poste technique ou organisationnelle. Je maitrise facilement de nouveaux concepts et intègre facilement les différents aspects et approches nécessaires à un nouveau poste. Je suis disponible pour relever tous les défis qui me seront proposés.
+          Je suis Pascal Belley, gestionnaire, développeur, électricien, mécanicien, un touche à tout en somme. Professionnel passionné par la gestion de projet, le développement personnel et les ressources humaines, avec plus de 4 ans d'expérience. Compétent en coordination, analyse et mentorat, prêt à relever de nouveaux défis dans un nouveau poste technique ou organisationnelle. Je maitrise facilement de nouveaux concepts et intègre facilement les différents aspects et approches nécessaires à un nouveau poste. Je suis disponible pour relever tous les défis qui me seront proposés.
         </p>
         <p className="text-slate-600 text-lg mb-6"> 
           Retrouvez ici mon CV, mes projets et mes coordonnées.     
@@ -115,7 +115,7 @@ export function Welcome() {
       <section className="mt-20 w-full max-w-4xl">
 
         <div className="flex justify-center gap-4">
-          <a href="mailto:leopold.bosso@outlook.com">
+          <a href="mailto:pbelley@gmail.com">
             {/* <Button className="gap-2 w-38 h-8"> */}
             <Button className="bg-white text-black hover:bg-slate-200 font-medium my-8">
               <Mail className="w-4 h-4" /> Me contacter

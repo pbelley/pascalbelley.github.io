@@ -1,0 +1,1 @@
+import{w as t}from"./with-props-B6V7a6HP.js";import{o as r,N as o}from"./chunk-D4RADZKF-R3cz4WnU.js";function i({}){return[{title:"suiteaurora"},{name:"Projet Suite Aurora",content:"En html!"}]}const n=t(function(){return r.jsx(o,{to:"/folio/suiteaurora",replace:!0})});export{n as default,i as meta};
